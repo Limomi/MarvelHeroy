@@ -1,0 +1,39 @@
+.Header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Header{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+.header_menu {
+    width: 225px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.containrt_link p {
+    color: var(--Pharagraph, #212121);
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.H1 {
+    color: #17171B;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+
+.line {
+    width: 62.483px;
+    height: 3px;
+    background: #212121;
+}

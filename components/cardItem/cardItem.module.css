@@ -1,0 +1,17 @@
+.cardFi{
+    background-color: rgba(115, 214, 119, 1);
+    width: 234px;
+    height: 246px;
+}
+
+.her_name{
+    text-align: center;
+    font-size: 20px;
+}
+
+.herImg{
+    width: 156px;
+    height: 140px;
+    margin-top: 37px;
+    margin-left: 39px;
+}
